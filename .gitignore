@@ -33,3 +33,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+/public/fine-tuned-bert/*.onnx
+/public/fine-tuned-bert/*.safetensors
+/public/fine-tuned-bert/*.pt
